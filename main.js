@@ -38,7 +38,7 @@ geraSenha();
 
 function geraSenha() {
     let alfabeto = '';
-    if (checkbox[0].cheked)
+    if (checkbox[0].cheked){
       alfabeto = alfabeto + letrasMaiusculas;
 }
     if (checkbox[1].cheked){
